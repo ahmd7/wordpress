@@ -1,0 +1,9 @@
+version: '3'
+services:
+  wordpress:
+    image: vhmds/wordpress-img
+    build: .
+    restart: always
+    ports:
+      - 80:80
+  
