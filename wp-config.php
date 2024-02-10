@@ -37,8 +37,8 @@ define( 'DB_CHARSET', 'utf8' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
-define('WP_HOME', 'http://hc-alb-1443524362.eu-north-1.elb.amazonaws.com');
-define('WP_SITEURL', 'http://hc-alb-1443524362.eu-north-1.elb.amazonaws.com');
+//define('WP_HOME', 'http://hc-alb-1443524362.eu-north-1.elb.amazonaws.com');
+//define('WP_SITEURL', 'http://hc-alb-1443524362.eu-north-1.elb.amazonaws.com');
 
 /**#@+
  * Authentication unique keys and salts.
